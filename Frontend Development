@@ -1,2 +1,9 @@
 mkdir frontend
 cd frontend
+
+
+
+Initialize the project and install required packages:
+npm init -y
+npm install react react-dom
+npm install bootstrap
