@@ -1,0 +1,2 @@
+cd recruitment_startup
+django-admin startapp jobs
